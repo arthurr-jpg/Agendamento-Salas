@@ -50,4 +50,5 @@ http://localhost:8084/h2-console
 JDBC URL: jdbc:h2:mem:agendas
 ```
 Usuário: sa
+
 Senha: (vazio)
